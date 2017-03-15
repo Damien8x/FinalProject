@@ -1,0 +1,104 @@
+﻿body {
+  
+    width:100%;
+    
+}
+h1{
+  
+    margin:auto;
+      text-align: center;
+padding:10px;
+
+}
+h2{
+    margin:auto;
+      text-align: center;
+      padding:10px;
+
+
+}
+h3{
+ margin:auto;
+   text-align: center;
+   padding:10px;
+
+}
+p{
+   margin:auto;
+       text-align: center;
+       padding:10px;
+}
+
+table{
+    width:100%;
+  
+    margin:auto;
+    display: inline-block;
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+
+
+
+}
+
+form{
+    width:100%;
+     padding:10px;
+margin:auto;
+
+}
+
+.butt {
+   padding:10px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    margin:auto;
+ 
+    display: inline-block;
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+
+.text{
+     padding:10px;
+    margin:auto;
+    display:inline-block;
+}
+
+.listbox{
+     padding:10px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    margin:auto;
+ 
+    display: inline-block;
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+
+}
+
+.gridview{
+  padding:10px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    margin:auto;
+ 
+    display: inline-block;
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+
+}
